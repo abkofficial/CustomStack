@@ -1,20 +1,18 @@
 {
   "Group": "Microgamedev",
-  "Name": "HytaleModName",
+  "Name": "CustomStack",
   "Version": "1.0.0",
-  "Description": "Description of mod",
+  "Description": "It helps to customize each item's size.",
   "Authors": [
     {
       "Name": "Microgamedev"
     }
   ],
-  "Website": "website",
-  "ServerVersion": "2026.02.17-255364b8e",
-  "Dependencies": {
-    "Hytale:EntityModule": "*"
-  },
+  "Website": "https://github.com/abkofficial/CustomStack",
+  "ServerVersion": "2026.03.26-89796e57b",
+  "Dependencies": {},
   "OptionalDependencies": {},
   "DisabledByDefault": false,
-  "Main": "com.microgamedev.hytalemodname.Main",
+  "Main": "com.microgamedev.customstack.Main",
   "IncludesAssetPack": true
 }
