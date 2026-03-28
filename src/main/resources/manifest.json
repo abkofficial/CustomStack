@@ -1,0 +1,20 @@
+{
+  "Group": "Microgamedev",
+  "Name": "HytaleModName",
+  "Version": "1.0.0",
+  "Description": "Description of mod",
+  "Authors": [
+    {
+      "Name": "Microgamedev"
+    }
+  ],
+  "Website": "website",
+  "ServerVersion": "2026.02.17-255364b8e",
+  "Dependencies": {
+    "Hytale:EntityModule": "*"
+  },
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "Main": "com.microgamedev.hytalemodname.Main",
+  "IncludesAssetPack": true
+}
